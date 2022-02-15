@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Calendar and Homework
 uid: 0b960911-b4ca-6f33-a7ee-ecd880add8ee
 ---

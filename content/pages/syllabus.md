@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: c1c742c6-9a20-d4d9-11b2-b8874f92040e
 ---
@@ -82,7 +84,7 @@ I don't give page-length (or word number) requirements for individual writing as
 
 ### Revision
 
-I will hand out a 2-pocket folder for submitting revisions a week after your first version of an essay is discussed in workshop and / or you have received written responses. Note: All versions should be identified (1st version, 2nd version, etc.) and be included in the folder. In the left-hand pocket include the current version and your filled in revision intent sheet. In the right-hand pocket include previous versions and the responses you received. Please don't include miscellaneous hand-outs, problem sets, etc. If you choose to revise more than once before passing in the portfolio, I will be glad to take a look at what you've done.
+I will hand out a 2-pocket folder for submitting revisions a week after your first version of an essay is discussed in workshop and / or you have received written responses. Note: All versions should be identified (1{{< sup "st" >}} version, 2{{< sup "nd" >}} version, etc.) and be included in the folder. In the left-hand pocket include the current version and your filled in revision intent sheet. In the right-hand pocket include previous versions and the responses you received. Please don't include miscellaneous hand-outs, problem sets, etc. If you choose to revise more than once before passing in the portfolio, I will be glad to take a look at what you've done.
 
 ### Academic Integrity
 

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21w-021-writing-and-experience-mit-inside-live-fall-2013/f865a3ba1b36caae96845fd50a079fdf_MIT21W_021F13_Orwellreader.pdf
+file: /media/courses/21w-021-writing-and-experience-mit-inside-live-fall-2013/f865a3ba1b36caae96845fd50a079fdf_MIT21W_021F13_Orwellreader.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Calendar and Homework
+parent_type: CourseSection
 resourcetype: Document
 title: '21W.021F13 MIT: Inside, Live: Orwell Reading Responses handout'
 uid: f865a3ba-1b36-caae-9684-5fd50a079fdf
