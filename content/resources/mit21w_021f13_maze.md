@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 06009a5f-afe4-71db-51c4-38bdd5366532
 resourcetype: Document
 title: '21W.021F13 MIT: Inside, Live: Looking at-MIT - Student Example'
 uid: bd06ddaa-4c1b-4e88-1eeb-2767bab90a58

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Homework
 parent_type: CourseSection
+parent_uid: 0b960911-b4ca-6f33-a7ee-ecd880add8ee
 resourcetype: Document
 title: '21W.021F13 MIT: Inside, Live: MIT Stories Responses 1 handout'
 uid: cf9722e6-8862-6741-4540-62e25219abd5

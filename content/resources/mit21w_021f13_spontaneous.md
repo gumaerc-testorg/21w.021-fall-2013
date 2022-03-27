@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 06009a5f-afe4-71db-51c4-38bdd5366532
 resourcetype: Document
 title: '21W.021F13 MIT: Inside, Live: Personal Essay - Student Example'
 uid: 2b8c5dc5-7405-97ed-7fe1-90613b2609c6

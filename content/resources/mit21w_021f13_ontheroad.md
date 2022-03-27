@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 06009a5f-afe4-71db-51c4-38bdd5366532
 resourcetype: Document
 title: '21W.021F13 MIT: Inside, Live: Assignment 3 - On The Road to MIT'
 uid: 262f9de4-9225-5375-add6-29d0b5975368

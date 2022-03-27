@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Homework
 parent_type: CourseSection
+parent_uid: 0b960911-b4ca-6f33-a7ee-ecd880add8ee
 resourcetype: Document
 title: '21W.021F13 MIT: Inside, Live: On Workshops handout'
 uid: 0656d3be-ec08-2994-5148-bb79dee93ac8

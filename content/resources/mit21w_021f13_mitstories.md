@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 06009a5f-afe4-71db-51c4-38bdd5366532
 resourcetype: Document
 title: '21W.021F13 MIT: Inside, Live: Assignment 5 - MIT Stories'
 uid: f9fccd2a-6a87-c429-92d4-175606173af0
