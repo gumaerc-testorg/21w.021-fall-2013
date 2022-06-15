@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21w-021-writing-and-experience-mit-inside-live-fall-2013/f865a3ba1b36caae96845fd50a079fdf_MIT21W_021F13_Orwellreader.pdf
+file: /courses/21w-021-writing-and-experience-mit-inside-live-fall-2013/f865a3ba1b36caae96845fd50a079fdf_MIT21W_021F13_Orwellreader.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

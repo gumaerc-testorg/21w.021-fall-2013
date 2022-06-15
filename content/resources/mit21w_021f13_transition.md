@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21w-021-writing-and-experience-mit-inside-live-fall-2013/a262f5f009678f8391d2932c8ddd9bfd_MIT21W_021F13_Transition.pdf
+file: /courses/21w-021-writing-and-experience-mit-inside-live-fall-2013/a262f5f009678f8391d2932c8ddd9bfd_MIT21W_021F13_Transition.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
