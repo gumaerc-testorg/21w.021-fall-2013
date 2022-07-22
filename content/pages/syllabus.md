@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, assignments, general guidelines, resources available
+  at the writing center, and tips on how to do well in the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: c1c742c6-9a20-d4d9-11b2-b8874f92040e
 ---
@@ -37,7 +42,7 @@ Assignments
 
 One goal of the class will be to develop at least one piece of writing to submit to [_Angles: An Online Magazine of Exemplary Writing from the Introductory Writing Subjects_](http://cmsw.mit.edu/publications/angles/) and / or to the [Ilona Karmel Writing Prizes](http://cmsw.mit.edu/publications/ilona-karmel-writing-prizes/) in the spring.
 
-For further detail, please see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For further detail, please see the {{% resource_link 06009a5f-afe4-71db-51c4-38bdd5366532 "Assignments" %}} section.
 
 General Guidelines
 ------------------
@@ -82,13 +87,13 @@ I don't give page-length (or word number) requirements for individual writing as
 
 ### Revision
 
-I will hand out a 2-pocket folder for submitting revisions a week after your first version of an essay is discussed in workshop and / or you have received written responses. Note: All versions should be identified (1st version, 2nd version, etc.) and be included in the folder. In the left-hand pocket include the current version and your filled in revision intent sheet. In the right-hand pocket include previous versions and the responses you received. Please don't include miscellaneous hand-outs, problem sets, etc. If you choose to revise more than once before passing in the portfolio, I will be glad to take a look at what you've done.
+I will hand out a 2-pocket folder for submitting revisions a week after your first version of an essay is discussed in workshop and / or you have received written responses. Note: All versions should be identified (1{{< sup "st" >}} version, 2{{< sup "nd" >}} version, etc.) and be included in the folder. In the left-hand pocket include the current version and your filled in revision intent sheet. In the right-hand pocket include previous versions and the responses you received. Please don't include miscellaneous hand-outs, problem sets, etc. If you choose to revise more than once before passing in the portfolio, I will be glad to take a look at what you've done.
 
 ### Academic Integrity
 
 Using someone else's language and / or ideas without appropriate attribution is academically dishonest. As members of this class and the larger scholarly community, you are expected to abide by the norms of academic honesty. While a good deal of collaboration is encouraged in and out of class, failing to acknowledge sources or willfully misrepresenting the work of others as your own will not be tolerated. Everything you submit must be your own work, written specifically for this class. Plagiarism can result in withdrawal from the course with a grade of F, suspension or expulsion from the Institute.
 
-The booklet ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students (PDF)_](http://integrity.mit.edu/sites/default/files/documents/AcademicIntegrityHandbookColor.pdf) explains these issues in detail, and you are responsible for understanding its contents. You can find more information on plagiarism and the appropriate citation of sources at: [integrity.mit.edu](http://integrity.mit.edu/). We will work on citing sources in class and discuss ways to acknowledge them appropriately. When in doubt, consult with me.
+The booklet [_Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students (PDF)_](http://integrity.mit.edu/sites/default/files/documents/AcademicIntegrityHandbookColor.pdf) explains these issues in detail, and you are responsible for understanding its contents. You can find more information on plagiarism and the appropriate citation of sources at: [integrity.mit.edu](http://integrity.mit.edu/). We will work on citing sources in class and discuss ways to acknowledge them appropriately. When in doubt, consult with me.
 
 From The Writing and Communication Center
 -----------------------------------------

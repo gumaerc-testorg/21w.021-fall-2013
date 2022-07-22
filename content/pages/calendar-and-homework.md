@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of discussion topics, activities,
+  readings, and homework assigned for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Calendar and Homework
 uid: 0b960911-b4ca-6f33-a7ee-ecd880add8ee
 ---
@@ -8,7 +13,7 @@ The table below contains the discussion topics, activities, and the homework ass
 
 Students posted writing assignments and reading responses on the class website.
 
-For further detail on Assignments 1–6, please see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For further detail on Assignments 1–6, please see the {{% resource_link 06009a5f-afe4-71db-51c4-38bdd5366532 "Assignments" %}} section.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -64,8 +69,8 @@ Read:
 
 *   "Looking—at MIT" (Assignment 2)
 *   Kotz, Deborah. "[Cure For Distracted Mind: Stare at a Painting for Three Hours](https://www.bostonglobe.com/lifestyle/health-wellness/2013/05/26/cure-for-distracted-mind-stare-painting-for-three-hours/rzlKob6JEBy0RIsQI1DSqN/story.html)," boston.com, May 24, 2013.
-*   ["Freewriting" (PDF)]({{< baseurl >}}/resources/mit21w_021f13_freewriting)
-*   [Reading Responses handout (PDF)]({{< baseurl >}}/resources/mit21w_021f13_responses)
+*   {{% resource_link 088ec086-7056-3f15-79e8-de67a61aa471 "\"Freewriting\" (PDF)" %}}
+*   {{% resource_link 450d2c31-55c2-9d24-c3ac-bf9ef4d75352 "Reading Responses handout (PDF)" %}}
 
 Post response to the Kotz reading.
 
@@ -114,7 +119,7 @@ Read:
 *   Katongo, Kapaya. "[Seeing is Not Always Believing](http://cmsw.mit.edu/angles/2013/?page_id=108)," _Angles_, 2013.
 *   Cholst, Beth. "[The Abstract Art of Physics](http://cmsw.mit.edu/angles/2013/?page_id=112)," _Angles_, 2013.
 *   Shoyer Jr., Timothy Curtis. "[Chaos Contained in a Cat](http://cmsw.mit.edu/angles/2013/?page_id=79)," _Angles_, 2013.
-*   [Reading Response handout (PDF)]({{< baseurl >}}/resources/mit21w_021f13_orwellreader)
+*   {{% resource_link f865a3ba-1b36-caae-9684-5fd50a079fdf "Reading Response handout (PDF)" %}}
 
 Post response to the Orwell Reading.
 
@@ -142,7 +147,7 @@ Post "Looking—at MIT" (Assignment 2).
 
 Read:
 
-*   ["On Workshops" (PDF)]({{< baseurl >}}/resources/mit21w_021f13_workshops)
+*   {{% resource_link 0656d3be-ec08-2994-5148-bb79dee93ac8 "\"On Workshops\" (PDF)" %}}
 *   Your workshops mates' "Looking—at MIT" reviews and respond in letter form. Some questions to consider in your response: Can you "see" the object? Where specifically is it vivid for you? Do you understand what the writer found interesting about this object? Is there anything more you'd like to know?
 
 
@@ -204,7 +209,7 @@ Read the following models and post a response to three of them:
 *   Felhofer, Ann. "[The View from the Top](http://cmsw.mit.edu/angles/2012/?page_id=8)," _Angles_, 2012.
 *   Senatus, Larissa. "[What It Means To Be Alive](http://cmsw.mit.edu/angles/2012/?page_id=6)," _Angles_, 2012.
 
-Complete your "Looking—at MIT" second version to bring to class in two-envelope folder with first version, responses, and [revision intent sheet (PDF)]({{< baseurl >}}/resources/mit21w_021f13_revisionsheet).
+Complete your "Looking—at MIT" second version to bring to class in two-envelope folder with first version, responses, and {{% resource_link 119a0a84-156a-657a-9466-42430d584e6e "revision intent sheet (PDF)" %}}.
 
 
 {{< tdclose >}}
@@ -311,7 +316,7 @@ Read and post responses to:
 *   Sanneman, Lindsay. "[Shifting Balance: The Elimination of MIT's Varsity Women's Gymnastics Program](http://cmsw.mit.edu/angles/2012/?page_id=17)," _Angles_, 2012.
 *   Watson, Sterling. ["The Brass Rat: MIT's Nonstandard Technology Ring](http://cmsw.mit.edu/angles/2012/?page_id=12)," _Angles_, 2012.
 *   Ji, Xunjie. "[1927](http://mitangles.wordpress.com/li/)," _Angles_, 2011.
-*   Bassett, Ross. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["MIT-Trained Swadeshis: MIT and Indian Nationalism, 1880–1947." (PDF)](http://www.archives.godrej.com/assets/pdf/2009_bassett.mitswadeshi.pdf) _Osiris_ 24 (2009): 212–30.
+*   Bassett, Ross. ["MIT-Trained Swadeshis: MIT and Indian Nationalism, 1880–1947." (PDF)](http://www.archives.godrej.com/assets/pdf/2009_bassett.mitswadeshi.pdf) _Osiris_ 24 (2009): 212–30.
 *   Galchen, Rivka. "[Disaster Aversion: The Quest to Control Hurricanes](http://harpers.org/archive/2009/10/disaster-aversion/)." _Harper's_, October 2009.
 
 Work on your "On The Road" revisions.
@@ -386,7 +391,7 @@ _We will meet in the MIT Libraries' [Digital Instruction Resource Center (DIRC)]
 
 Continue work on your PIEs.
 
-Fill out and bring your [Search Worksheet (PDF)]({{< baseurl >}}/resources/mit21w_021f13_searchwork) to class.
+Fill out and bring your {{% resource_link 0bbcce1d-9bd8-a415-5231-437c01186404 "Search Worksheet (PDF)" %}} to class.
 
 
 {{< tdclose >}}
@@ -443,8 +448,8 @@ Read:
 *   Fayngersh, Mark. "[Owl](http://cmsw.mit.edu/angles/2012/?page_id=30)," _Angles_, 2012.
 *   Fujimori, Jessica. "[Yellowstone's Footprint](http://cmsw.mit.edu/angles/2012/?page_id=9)," _Angles_, 2012.
 *   Moffatt, Michael. "A Year on Hasbrouck Fourth." Chapter 3 in _Coming of Age in New Jersey: College and American Culture_. Rutgers University Press, 1989, pp. 88-95. ISBN: 9780813513591. \[Preview with [Google Books](http://books.google.com/books?id=ihVdUU_WU8oC&pg=PA71=onepage)\]
-*   ["Ode to the Midnight P-Setter" (PDF)]({{< baseurl >}}/resources/mit21w_021f13_midnight)
-*   [MIT Stories, Responses I (PDF)]({{< baseurl >}}/resources/mit21w_021f13_storieresponi)
+*   {{% resource_link 72b6b93b-b5c2-2772-6540-288cd01d73eb "\"Ode to the Midnight P-Setter\" (PDF)" %}}
+*   {{% resource_link cf9722e6-8862-6741-4540-62e25219abd5 "MIT Stories, Responses I (PDF)" %}}
 
 Post reading responses.
 
@@ -473,7 +478,7 @@ Read:
 *   Khoury, Noor. "[My Life: Tuesday](http://cmsw.mit.edu/angles/2012/?page_id=10)," _Angles_, 2012.
 *   Choi, Sang Huyun. "[Transcript of 2011 Annual Cambridge Mouse Meeting (9/15~9/19)](http://cmsw.mit.edu/angles/2012/?page_id=29),"_Angles_, 2012.
 *   Granville, Alina. "[The Sketchbook: Lowlights of Being an MIT Archie](http://cmsw.mit.edu/angles/2012/?page_id=259)," _Angles_, 2012.
-*   [MIT Stories, Responses II (PDF)]({{< baseurl >}}/resources/mit21w_021f13_storieesponii)
+*   {{% resource_link c1c92add-5999-4b2d-031c-a129c072188e "MIT Stories, Responses II (PDF)" %}}
 
 Post reading responses.
 
