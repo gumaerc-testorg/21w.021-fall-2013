@@ -5,6 +5,7 @@ file: /courses/21w-021-writing-and-experience-mit-inside-live-fall-2013/b0a7da95
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '21W.021F13 MIT: Inside, Live: One Writer''s Beginnings 2 - Student Examp
 uid: b0a7da95-0f8b-9b9e-b588-b815ac3bd4e8
 ---
 This file contains information regarding a renewed take on writing.
-

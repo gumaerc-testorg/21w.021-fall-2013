@@ -6,6 +6,7 @@ file: /courses/21w-021-writing-and-experience-mit-inside-live-fall-2013/0bbcce1d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Homework
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '21W.021F13 MIT: Inside, Live: PIE Search Worksheet'
 uid: 0bbcce1d-9bd8-a415-5231-437c01186404
 ---
 This resource contains the information regarding inside, live: PIE search worksheet.
-

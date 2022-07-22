@@ -5,6 +5,7 @@ file: /courses/21w-021-writing-and-experience-mit-inside-live-fall-2013/047669e1
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '21W.021F13 MIT: Inside, Live: One Writer''s Beginnings 2 - Student Examp
 uid: 047669e1-5bce-56a6-4229-5068baca4b07
 ---
 This file contains information regarding one writer 2.
-

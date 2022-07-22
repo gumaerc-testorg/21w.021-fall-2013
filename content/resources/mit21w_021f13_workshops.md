@@ -5,6 +5,7 @@ file: /courses/21w-021-writing-and-experience-mit-inside-live-fall-2013/0656d3be
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Homework
 parent_type: CourseSection
