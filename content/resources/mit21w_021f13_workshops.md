@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21w-021-writing-and-experience-mit-inside-live-fall-2013/0656d3beec0829945148bb79dee93ac8_MIT21W_021F13_Workshops.pdf
+file_size: 160618
 file_type: application/pdf
 learning_resource_types:
 - Assignments

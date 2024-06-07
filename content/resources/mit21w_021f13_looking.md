@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21w-021-writing-and-experience-mit-inside-live-fall-2013/cd7adf00622925fe65b1e911ed15d5e5_MIT21W_021F13_Looking.pdf
+file_size: 155109
 file_type: application/pdf
 learning_resource_types:
 - Assignments

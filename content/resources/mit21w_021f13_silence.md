@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21w-021-writing-and-experience-mit-inside-live-fall-2013/3d6ce43449413c3ba92e9122b313f1f3_MIT21W_021F13_Silence.pdf
+file_size: 193013
 file_type: application/pdf
 learning_resource_types:
 - Assignments
