@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This is a resource file that contains information regarding MIT: inside,
   live: personal essay - student example.'
-file: /courses/21w-021-writing-and-experience-mit-inside-live-fall-2013/2b8c5dc5740597ed7fe190613b2609c6_MIT21W_021F13_Spontaneous.pdf
+file: /ol-ocw-studio-app/courses/21w-021-writing-and-experience-mit-inside-live-fall-2013/2b8c5dc5740597ed7fe190613b2609c6_MIT21W_021F13_Spontaneous.pdf
 file_size: 767617
 file_type: application/pdf
 learning_resource_types:
