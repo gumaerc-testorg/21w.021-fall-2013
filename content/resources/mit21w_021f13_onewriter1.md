@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding one writer's.
-file: /courses/21w-021-writing-and-experience-mit-inside-live-fall-2013/bc892a309126b5ba703373e9aede5824_MIT21W_021F13_OneWriter1.pdf
+file: /ol-ocw-studio-app/courses/21w-021-writing-and-experience-mit-inside-live-fall-2013/bc892a309126b5ba703373e9aede5824_MIT21W_021F13_OneWriter1.pdf
 file_size: 409704
 file_type: application/pdf
 learning_resource_types:
