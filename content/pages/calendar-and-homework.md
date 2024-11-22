@@ -73,7 +73,7 @@ No homework assigned
 Read:
 
 - Orwell, George. "Politics and the English Language." In *Fields of Writing: Motives for Writing*. 10th ed. Edited by Nancy R. Cormley, David Hamilton, et al. Bedford / St. Martin's Press, 2012. ISBN: 9781457608919.
-- Kauffman, Ben. "[What We Have Here is a Failure to Communicate](http://www.highbeam.com/doc/1P2-7831239.html)." *Boston Globe*, January 4, 2004.
+- Kauffman, Ben. "What We Have Here is a Failure to Communicate." *Boston Globe*, January 4, 2004.
 - Katongo, Kapaya. "[Seeing is Not Always Believing](http://cmsw.mit.edu/angles/2013/?page_id=108)," *Angles*, 2013.
 - Cholst, Beth. "[The Abstract Art of Physics](http://cmsw.mit.edu/angles/2013/?page_id=112)," *Angles*, 2013.
 - Shoyer Jr., Timothy Curtis. "[Chaos Contained in a Cat](http://cmsw.mit.edu/angles/2013/?page_id=79)," *Angles*, 2013.
@@ -113,8 +113,8 @@ Read:
 - "On the Road to MIT" (Assignment 3)
 - Alexie, Sherman. "Indian Education." In *The Lone Ranger and Tonto Fistfight in Heaven*. 20th Anniv. ed. Grove Press, 2013. ISBN: 9780802121998. \[Preview with [Google Books](http://books.google.com/books?id=XV36AAAAQBAJ&printsec=frontcover)\]
 - Dillard, Annie. *An American Childhood*. Harper and Row Publishers, 2013, pp. 147–9. ISBN: 9780060915186.
-- Konopka, Jaclyn. "[The Gift of Education](http://angles.scripts.mit.edu/angles2011/konopka/)," *Angles*, 2011.
-- Mendoza, Douglas. "[Chapter Four: Slavery in the U.S.](http://angles.scripts.mit.edu/angles2011/mendoza/)," *Angles*, 2011.
+- Konopka, Jaclyn. "[The Gift of Education](https://mitangles.wordpress.com/konopka/)," *Angles*, 2011.
+- Mendoza, Douglas. "[Chapter Four: Slavery in the U.S.](https://mitangles.wordpress.com/mendoza/)," *Angles*, 2011.
 
 Post responses to the readings. What strategies do Alexie, Dillard, Konopka and Mendoza use to explore their own educations? What makes them effective—or not? What did you learn that could be of use in telling your own story? Could one of them serve as a model for your "On the Road" narrative?
 
@@ -134,7 +134,7 @@ Read the following models and post a response to three of them:
 
 - Katongo, Kapaya. "[Memories from the Future](http://cmsw.mit.edu/angles/2013/?page_id=92)," *Angles*, 2013.
 - Manzi, Eric. "[From the Great Dome](http://cmsw.mit.edu/angles/2013/?page_id=86)," *Angles*, 2013.
-- Felhofer, Ann. "[The View from the Top](http://cmsw.mit.edu/angles/2012/?page_id=8)," *Angles*, 2012.
+- Felhofer, Ann. "The View from the Top," *Angles*, 2012.
 - Senatus, Larissa. "[What It Means To Be Alive](http://cmsw.mit.edu/angles/2012/?page_id=6)," *Angles*, 2012.
 
 Complete your "Looking—at MIT" second version to bring to class in two-envelope folder with first version, responses, and {{% resource_link "119a0a84-156a-657a-9466-42430d584e6e" "revision intent sheet (PDF)" %}}.
@@ -190,7 +190,7 @@ We will hold small-group workshops throughout the week. For those with small-gro
 11
 {{< tdclose >}}{{< tdopen >}}
 
-\*\*Workshop: On the Road to MIT (cont.)   
+\*\*Workshop: On the Road to MIT (cont.)      
 \*\*
 
 *We will hold a full-group workshop for three writers' essays.*
@@ -201,8 +201,8 @@ Read and post responses to:
 
 - Hochstadt, Andrew. "[The Fovnder](http://cmsw.mit.edu/angles/2013/?page_id=114)," *Angles*, 2013.
 - Shoyer Jr., Timothy Curtis. "[The School Up the River and That Other Institute of Technology](http://cmsw.mit.edu/angles/2013/?page_id=116)," *Angles*, 2013.
-- Sanneman, Lindsay. "[Shifting Balance: The Elimination of MIT's Varsity Women's Gymnastics Program](http://cmsw.mit.edu/angles/2012/?page_id=17)," *Angles*, 2012.
-- Watson, Sterling. ["The Brass Rat: MIT's Nonstandard Technology Ring](http://cmsw.mit.edu/angles/2012/?page_id=12)," *Angles*, 2012.
+- Sanneman, Lindsay. "Shifting Balance: The Elimination of MIT's Varsity Women's Gymnastics Program," *Angles*, 2012.
+- Watson, Sterling. "The Brass Rat: MIT's Nonstandard Technology Ring," *Angles*, 2012.
 - Ji, Xunjie. "[1927](http://mitangles.wordpress.com/li/)," *Angles*, 2011.
 - Bassett, Ross. ["MIT-Trained Swadeshis: MIT and Indian Nationalism, 1880–1947." (PDF)](http://www.archives.godrej.com/assets/pdf/2009_bassett.mitswadeshi.pdf) *Osiris* 24 (2009): 212–30.
 - Galchen, Rivka. "[Disaster Aversion: The Quest to Control Hurricanes](http://harpers.org/archive/2009/10/disaster-aversion/)." *Harper's*, October 2009.
@@ -221,11 +221,11 @@ Work on your "On The Road" revisions.
 
 Read and post responses to:
 
-- Healey, Mina. "[Walker Memorial: The 'Useful' Building](http://cmsw.mit.edu/angles/2012/?page_id=13)," *Angles*, 2012.
-- Wangare, Yvonne. "[Away From Home](http://cmsw.mit.edu/angles/2012/?page_id=11)," *Angles*, 2012.
-- Moran, Shannon. "[Freshman Year, On the Rocks](http://angles.scripts.mit.edu/angles2011/moran/)," *Angles*, 2011.
-- Burgos, Ana. "[A Professor of Puzzles](http://cmsw.mit.edu/angles/2012/?page_id=22)," *Angles*, 2012.
-- Warneke, Jonathan. "[Armed and Dangerous: Don't Point your Quantum Computer at Me!](http://cmsw.mit.edu/angles/2012/?page_id=23)" *Angles*, 2012.
+- Healey, Mina. "Walker Memorial: The 'Useful' Building," *Angles*, 2012.
+- Wangare, Yvonne. "Away From Home," *Angles*, 2012.
+- Moran, Shannon. "[Freshman Year, On the Rocks](https://mitangles.wordpress.com/moran/)," *Angles*, 2011.
+- Burgos, Ana. "A Professor of Puzzles," *Angles*, 2012.
+- Warneke, Jonathan. "Armed and Dangerous: Don't Point your Quantum Computer at Me!" *Angles*, 2012.
 
 Bring copies of an initial idea for a PIE, including your key question and strategies for investigation, to class.
 
@@ -284,9 +284,9 @@ Read:
 - MIT Stories (Assignment 5)
 - Gregg, Joseph. "[Que Sera Sera](http://web.mit.edu/angles2008/angles_Joseph_Gregg.html)," *Angles*, 2008.
 - Miner, Horace. "[Body Ritual among the Nacirema](http://dx.doi.org/10.1525/aa.1956.58.3.02a00080)." *American Anthropologist* 58, no. 3 (1956): 503–7.
-- Sun, Lili. "[Pottery Class](http://cmsw.mit.edu/angles/2012/?page_id=240)," *Angles*, 2012.
-- Fayngersh, Mark. "[Owl](http://cmsw.mit.edu/angles/2012/?page_id=30)," *Angles*, 2012.
-- Fujimori, Jessica. "[Yellowstone's Footprint](http://cmsw.mit.edu/angles/2012/?page_id=9)," *Angles*, 2012.
+- Sun, Lili. "Pottery Class," *Angles*, 2012.
+- Fayngersh, Mark. "Owl," *Angles*, 2012.
+- Fujimori, Jessica. "Yellowstone's Footprint," *Angles*, 2012.
 - Moffatt, Michael. "A Year on Hasbrouck Fourth." Chapter 3 in *Coming of Age in New Jersey: College and American Culture*. Rutgers University Press, 1989, pp. 88-95. ISBN: 9780813513591. \[Preview with [Google Books](http://books.google.com/books?id=ihVdUU_WU8oC&pg=PA71=onepage)\]
 - {{% resource_link "72b6b93b-b5c2-2772-6540-288cd01d73eb" "\"Ode to the Midnight P-Setter\" (PDF)" %}}
 - {{% resource_link "cf9722e6-8862-6741-4540-62e25219abd5" "MIT Stories, Responses I (PDF)" %}}
@@ -305,9 +305,9 @@ Post reading responses.
 
 Read:
 
-- Khoury, Noor. "[My Life: Tuesday](http://cmsw.mit.edu/angles/2012/?page_id=10)," *Angles*, 2012.
-- Choi, Sang Huyun. "[Transcript of 2011 Annual Cambridge Mouse Meeting (9/15~9/19)](http://cmsw.mit.edu/angles/2012/?page_id=29),"*Angles*, 2012.
-- Granville, Alina. "[The Sketchbook: Lowlights of Being an MIT Archie](http://cmsw.mit.edu/angles/2012/?page_id=259)," *Angles*, 2012.
+- Khoury, Noor. "My Life: Tuesday," *Angles*, 2012.
+- Choi, Sang Huyun. "Transcript of 2011 Annual Cambridge Mouse Meeting (9/15~9/19)," *Angles*, 2012.
+- Granville, Alina. "The Sketchbook: Lowlights of Being an MIT Archie," *Angles*, 2012.
 - {{% resource_link "c1c92add-5999-4b2d-031c-a129c072188e" "MIT Stories, Responses II (PDF)" %}}
 
 Post reading responses.
@@ -326,7 +326,7 @@ Print out and read the PIEs for Session 19 full-group workshop and respond in le
 19
 {{< tdclose >}}{{< tdopen >}}
 
-\*\*Workshop: PIE   
+\*\*Workshop: PIE      
 \*\*
 
 *We will hold a full-group workshop for three writers' PIEs.*
