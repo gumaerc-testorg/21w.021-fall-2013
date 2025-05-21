@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding MIT stories
-file: /ol-ocw-studio-app/courses/21w-021-writing-and-experience-mit-inside-live-fall-2013/f9fccd2a6a87c42992d4175606173af0_MIT21W_021F13_MITStories.pdf
+file: /courses/21w-021-writing-and-experience-mit-inside-live-fall-2013/f9fccd2a6a87c42992d4175606173af0_MIT21W_021F13_MITStories.pdf
 file_size: 117273
 file_type: application/pdf
 learning_resource_types:
