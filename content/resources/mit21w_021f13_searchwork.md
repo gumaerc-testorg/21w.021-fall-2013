@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding inside, live: PIE search
   worksheet.'
-file: /ol-ocw-studio-app/courses/21w-021-writing-and-experience-mit-inside-live-fall-2013/0bbcce1d9bd8a4155231437c01186404_MIT21W_021F13_SearchWork.pdf
+file: /courses/21w-021-writing-and-experience-mit-inside-live-fall-2013/0bbcce1d9bd8a4155231437c01186404_MIT21W_021F13_SearchWork.pdf
 file_size: 229836
 file_type: application/pdf
 learning_resource_types:

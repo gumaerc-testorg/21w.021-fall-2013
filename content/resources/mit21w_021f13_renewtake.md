@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding a renewed take on writing.
-file: /ol-ocw-studio-app/courses/21w-021-writing-and-experience-mit-inside-live-fall-2013/b0a7da950f8b9b9eb588b815ac3bd4e8_MIT21W_021F13_RenewTake.pdf
+file: /courses/21w-021-writing-and-experience-mit-inside-live-fall-2013/b0a7da950f8b9b9eb588b815ac3bd4e8_MIT21W_021F13_RenewTake.pdf
 file_size: 103308
 file_type: application/pdf
 learning_resource_types:

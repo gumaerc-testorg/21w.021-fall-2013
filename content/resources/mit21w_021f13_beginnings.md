@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21w-021-writing-and-experience-mit-inside-live-fall-2013/54b9523cd708cef172760c158c0b0586_MIT21W_021F13_Beginnings.pdf
+file: /courses/21w-021-writing-and-experience-mit-inside-live-fall-2013/54b9523cd708cef172760c158c0b0586_MIT21W_021F13_Beginnings.pdf
 file_size: 151175
 file_type: application/pdf
 learning_resource_types:
