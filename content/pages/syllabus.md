@@ -40,7 +40,7 @@ Assignments
 *   **One Writer's Beginnings Revisited:** Near the end of semester you will update your first informal essay in which you wrote about your own experience and practice of writing—so far.
 *   **Final Portfolio:** You will submit a final portfolio of 5,000-plus words of your best revised writing at the end of semester. Assignments 3, 4, and 5 will each be revised at least once and included.
 
-One goal of the class will be to develop at least one piece of writing to submit to [_Angles: An Online Magazine of Exemplary Writing from the Introductory Writing Subjects_](http://cmsw.mit.edu/publications/angles/) and / or to the [Ilona Karmel Writing Prizes](http://cmsw.mit.edu/publications/ilona-karmel-writing-prizes/) in the spring.
+One goal of the class will be to develop at least one piece of writing to submit to {{% resource_link "9d9c7559-e781-469f-a703-d250302e95f0" "_Angles: An Online Magazine of Exemplary Writing from the Introductory Writing Subjects_" %}} and / or to the {{% resource_link "0a132440-dee8-4b33-8735-931cd73d1d1d" "Ilona Karmel Writing Prizes" %}} in the spring.
 
 For further detail, please see the {{% resource_link 06009a5f-afe4-71db-51c4-38bdd5366532 "Assignments" %}} section.
 
@@ -49,7 +49,7 @@ General Guidelines
 
 ### Grading
 
-I will give you a letter grade on the second versions of your three main essays. Your final grade will be based on: the accumulated grades on your three essays, the quality of your final portfolio; how successfully you have engaged in the revision process; your attendance; participation and leadership in class discussion and workshops. I am always happy to talk with you about your writing and your progress in class during office hours or by appointment. Passing this course with a C or better will give you [CI-HW](http://web.mit.edu/commreq/cih.html#CIHW) credit.
+I will give you a letter grade on the second versions of your three main essays. Your final grade will be based on: the accumulated grades on your three essays, the quality of your final portfolio; how successfully you have engaged in the revision process; your attendance; participation and leadership in class discussion and workshops. I am always happy to talk with you about your writing and your progress in class during office hours or by appointment. Passing this course with a C or better will give you {{% resource_link "861f7b1e-5f0d-4110-a4eb-b554e838fd62" "CI-HW" %}} credit.
 
 ### Attendance
 
@@ -93,12 +93,12 @@ I will hand out a 2-pocket folder for submitting revisions a week after your fir
 
 Using someone else's language and / or ideas without appropriate attribution is academically dishonest. As members of this class and the larger scholarly community, you are expected to abide by the norms of academic honesty. While a good deal of collaboration is encouraged in and out of class, failing to acknowledge sources or willfully misrepresenting the work of others as your own will not be tolerated. Everything you submit must be your own work, written specifically for this class. Plagiarism can result in withdrawal from the course with a grade of F, suspension or expulsion from the Institute.
 
-The booklet [_Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students (PDF)_](http://integrity.mit.edu/sites/default/files/documents/AcademicIntegrityHandbookColor.pdf) explains these issues in detail, and you are responsible for understanding its contents. You can find more information on plagiarism and the appropriate citation of sources at: [integrity.mit.edu](http://integrity.mit.edu/). We will work on citing sources in class and discuss ways to acknowledge them appropriately. When in doubt, consult with me.
+The booklet {{% resource_link "5cdef398-8d45-4452-91c4-cf40afd2edc7" "_Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students (PDF)_" %}} explains these issues in detail, and you are responsible for understanding its contents. You can find more information on plagiarism and the appropriate citation of sources at: {{% resource_link "a7e7d192-f1b2-436e-b1de-8f0b17f17845" "integrity.mit.edu" %}}. We will work on citing sources in class and discuss ways to acknowledge them appropriately. When in doubt, consult with me.
 
 From The Writing and Communication Center
 -----------------------------------------
 
-The Writing and Communication Center (12–132) offers _free_ one-on-one professional advice from lecturers who are published writers about all types of academic, creative, and professional writing and about all aspects of oral presentations. To access our many pages of advice about writing and oral presentations, go to [http://cmsw.mit.edu/writing-and-communication-center/](http://cmsw.mit.edu/writing-and-communication-center/).
+The Writing and Communication Center (12–132) offers _free_ one-on-one professional advice from lecturers who are published writers about all types of academic, creative, and professional writing and about all aspects of oral presentations. To access our many pages of advice about writing and oral presentations, go to {{% resource_link "bebfbe5f-dfbc-4f6a-91ea-42cb8868c882" "http://cmsw.mit.edu/writing-and-communication-center/" %}}.
 
 Six Tips on How to Do Well in This Course
 -----------------------------------------
