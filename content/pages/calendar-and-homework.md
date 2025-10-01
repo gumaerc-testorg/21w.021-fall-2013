@@ -44,7 +44,7 @@ Post "One Writer's Beginnings" (Assignment 1).
 Read:
 
 - "Looking—at MIT" (Assignment 2)
-- Kotz, Deborah. "[Cure For Distracted Mind: Stare at a Painting for Three Hours](https://www.bostonglobe.com/lifestyle/health-wellness/2013/05/26/cure-for-distracted-mind-stare-painting-for-three-hours/rzlKob6JEBy0RIsQI1DSqN/story.html)," boston.com, May 24, 2013.
+- Kotz, Deborah. "{{% resource_link "f4cf445c-d703-4c4d-9dfe-6085ed4e1471" "Cure For Distracted Mind: Stare at a Painting for Three Hours" %}}," boston.com, May 24, 2013.
 - {{% resource_link "088ec086-7056-3f15-79e8-de67a61aa471" "\"Freewriting\" (PDF)" %}}
 - {{% resource_link "450d2c31-55c2-9d24-c3ac-bf9ef4d75352" "Reading Responses handout (PDF)" %}}
 
@@ -56,7 +56,7 @@ Post response to the Kotz reading.
 
 **Listening: The Thing Itself**
 
-*Writing Lab: We'll do some in-class writing and prepare for going to the* [*MIT Museum*](http://web.mit.edu/museum/)*.*
+*Writing Lab: We'll do some in-class writing and prepare for going to the* {{% resource_link "5b01fc7f-ee37-4305-bd13-c2fca54f7c68" "*MIT Museum*" %}}*.*
 
 {{< tdclose >}}{{< tdopen >}}
 No homework assigned
@@ -66,7 +66,7 @@ No homework assigned
 
 **Looking—at MIT**
 
-*We will meet at the* [*MIT Museum*](http://web.mit.edu/museum/) *to find an object and free write about it.*
+*We will meet at the* {{% resource_link "5b01fc7f-ee37-4305-bd13-c2fca54f7c68" "*MIT Museum*" %}} *to find an object and free write about it.*
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -74,9 +74,9 @@ Read:
 
 - Orwell, George. "Politics and the English Language." In *Fields of Writing: Motives for Writing*. 10th ed. Edited by Nancy R. Cormley, David Hamilton, et al. Bedford / St. Martin's Press, 2012. ISBN: 9781457608919.
 - Kauffman, Ben. "What We Have Here is a Failure to Communicate." *Boston Globe*, January 4, 2004.
-- Katongo, Kapaya. "[Seeing is Not Always Believing](http://cmsw.mit.edu/angles/2013/?page_id=108)," *Angles*, 2013.
-- Cholst, Beth. "[The Abstract Art of Physics](http://cmsw.mit.edu/angles/2013/?page_id=112)," *Angles*, 2013.
-- Shoyer Jr., Timothy Curtis. "[Chaos Contained in a Cat](http://cmsw.mit.edu/angles/2013/?page_id=79)," *Angles*, 2013.
+- Katongo, Kapaya. "{{% resource_link "40fd880c-2670-4ebf-8292-920e0b492b96" "Seeing is Not Always Believing" %}}," *Angles*, 2013.
+- Cholst, Beth. "{{% resource_link "9165f117-cd50-44ee-9eeb-2ff40a212f3a" "The Abstract Art of Physics" %}}," *Angles*, 2013.
+- Shoyer Jr., Timothy Curtis. "{{% resource_link "8d13e953-374e-4dac-9ac4-c04e8601da55" "Chaos Contained in a Cat" %}}," *Angles*, 2013.
 - {{% resource_link "f865a3ba-1b36-caae-9684-5fd50a079fdf" "Reading Response handout (PDF)" %}}
 
 Post response to the Orwell Reading.
@@ -111,10 +111,10 @@ Read:
 Read:
 
 - "On the Road to MIT" (Assignment 3)
-- Alexie, Sherman. "Indian Education." In *The Lone Ranger and Tonto Fistfight in Heaven*. 20th Anniv. ed. Grove Press, 2013. ISBN: 9780802121998. \[Preview with [Google Books](http://books.google.com/books?id=XV36AAAAQBAJ&printsec=frontcover)\]
+- Alexie, Sherman. "Indian Education." In *The Lone Ranger and Tonto Fistfight in Heaven*. 20th Anniv. ed. Grove Press, 2013. ISBN: 9780802121998. \[Preview with {{% resource_link "713e565f-a8e3-4718-b196-92430849ee5d" "Google Books" %}}\]
 - Dillard, Annie. *An American Childhood*. Harper and Row Publishers, 2013, pp. 147–9. ISBN: 9780060915186.
-- Konopka, Jaclyn. "[The Gift of Education](https://mitangles.wordpress.com/konopka/)," *Angles*, 2011.
-- Mendoza, Douglas. "[Chapter Four: Slavery in the U.S.](https://mitangles.wordpress.com/mendoza/)," *Angles*, 2011.
+- Konopka, Jaclyn. "{{% resource_link "445c35f1-a376-4731-aa0e-be6933906704" "The Gift of Education" %}}," *Angles*, 2011.
+- Mendoza, Douglas. "{{% resource_link "baae638f-095e-4213-97b6-064261b02ddb" "Chapter Four: Slavery in the U.S." %}}," *Angles*, 2011.
 
 Post responses to the readings. What strategies do Alexie, Dillard, Konopka and Mendoza use to explore their own educations? What makes them effective—or not? What did you learn that could be of use in telling your own story? Could one of them serve as a model for your "On the Road" narrative?
 
@@ -126,16 +126,16 @@ Post responses to the readings. What strategies do Alexie, Dillard, Konopka and 
 
 *We will discuss the "On the Road to MIT" (Assignment 3), models, and the following readings:*
 
-Bombardieri, Marcella. "[Colleges Try to Meet Needs of First-Generation Students](http://www.bostonglobe.com/metro/2013/09/29/colleges-try-meet-needs-first-generation-students/1266Se7UzAWW8mvoxwx7zJ/story.html)," *Boston Globe*, September 30, 2013.
+Bombardieri, Marcella. "{{% resource_link "a52a350c-317d-47d4-9314-e79f7d83c0bc" "Colleges Try to Meet Needs of First-Generation Students" %}}," *Boston Globe*, September 30, 2013.
 
 {{< tdclose >}}{{< tdopen >}}
 
 Read the following models and post a response to three of them:
 
-- Katongo, Kapaya. "[Memories from the Future](http://cmsw.mit.edu/angles/2013/?page_id=92)," *Angles*, 2013.
-- Manzi, Eric. "[From the Great Dome](http://cmsw.mit.edu/angles/2013/?page_id=86)," *Angles*, 2013.
+- Katongo, Kapaya. "{{% resource_link "09cd23eb-6489-4a32-b76c-085947bcf618" "Memories from the Future" %}}," *Angles*, 2013.
+- Manzi, Eric. "{{% resource_link "558c1402-ce13-4b39-96c3-da3efcd87639" "From the Great Dome" %}}," *Angles*, 2013.
 - Felhofer, Ann. "The View from the Top," *Angles*, 2012.
-- Senatus, Larissa. "[What It Means To Be Alive](http://cmsw.mit.edu/angles/2012/?page_id=6)," *Angles*, 2012.
+- Senatus, Larissa. "{{% resource_link "94a8d1fe-706c-49d6-9a65-6693ba3c68ea" "What It Means To Be Alive" %}}," *Angles*, 2012.
 
 Complete your "Looking—at MIT" second version to bring to class in two-envelope folder with first version, responses, and {{% resource_link "119a0a84-156a-657a-9466-42430d584e6e" "revision intent sheet (PDF)" %}}.
 
@@ -152,11 +152,11 @@ Complete your "Looking—at MIT" second version to bring to class in two-envelop
 Read:
 
 - The PIE assignment (Assignment 4)
-- Orlean, Susan. "Introduction." In *Best American Essays 2005*. Mariner Books, 2005. ISBN: 9780618357130. \[Preview with [Google Books](http://books.google.com/books?id=Xqc6WgUgwKUC&printsec=frontcover)\]
+- Orlean, Susan. "Introduction." In *Best American Essays 2005*. Mariner Books, 2005. ISBN: 9780618357130. \[Preview with {{% resource_link "b5435557-593b-41a2-b722-94e2d9ced5ef" "Google Books" %}}\]
 
 Pick one sentence from Orlean's reading to talk about.
 
-Watch "Common Threads: The Evolving Student Experience at MIT." MIT+150. Accessed July 16, 2014. [https://infinitehistory.mit.edu/video/common-threads%E2%80%94-evolving-student-experience-mit-trailer](https://infinitehistory.mit.edu/video/common-threads%E2%80%94-evolving-student-experience-mit-trailer)
+Watch "Common Threads: The Evolving Student Experience at MIT." MIT+150. Accessed July 16, 2014. {{% resource_link "f26b417f-6bb5-4804-a7fa-4cc1ff7ee128" "https://infinitehistory.mit.edu/video/common-threads%E2%80%94-evolving-student-experience-mit-trailer" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -199,13 +199,13 @@ We will hold small-group workshops throughout the week. For those with small-gro
 
 Read and post responses to:
 
-- Hochstadt, Andrew. "[The Fovnder](http://cmsw.mit.edu/angles/2013/?page_id=114)," *Angles*, 2013.
-- Shoyer Jr., Timothy Curtis. "[The School Up the River and That Other Institute of Technology](http://cmsw.mit.edu/angles/2013/?page_id=116)," *Angles*, 2013.
+- Hochstadt, Andrew. "{{% resource_link "af8d38d1-99bd-427e-996b-544ef7f6c455" "The Fovnder" %}}," *Angles*, 2013.
+- Shoyer Jr., Timothy Curtis. "{{% resource_link "84cfea69-5f4a-4ec5-b950-3f074204f044" "The School Up the River and That Other Institute of Technology" %}}," *Angles*, 2013.
 - Sanneman, Lindsay. "Shifting Balance: The Elimination of MIT's Varsity Women's Gymnastics Program," *Angles*, 2012.
 - Watson, Sterling. "The Brass Rat: MIT's Nonstandard Technology Ring," *Angles*, 2012.
-- Ji, Xunjie. "[1927](http://mitangles.wordpress.com/li/)," *Angles*, 2011.
-- Bassett, Ross. ["MIT-Trained Swadeshis: MIT and Indian Nationalism, 1880–1947." (PDF)](http://www.archives.godrej.com/assets/pdf/2009_bassett.mitswadeshi.pdf) *Osiris* 24 (2009): 212–30.
-- Galchen, Rivka. "[Disaster Aversion: The Quest to Control Hurricanes](http://harpers.org/archive/2009/10/disaster-aversion/)." *Harper's*, October 2009.
+- Ji, Xunjie. "{{% resource_link "803e5e53-6516-4659-822a-35ceccf6509a" "1927" %}}," *Angles*, 2011.
+- Bassett, Ross. {{% resource_link "f5e3a446-2e0f-4f8f-83fd-662af864bb70" "\"MIT-Trained Swadeshis: MIT and Indian Nationalism, 1880–1947.\" (PDF)" %}} *Osiris* 24 (2009): 212–30.
+- Galchen, Rivka. "{{% resource_link "383394b6-bbb5-4902-9359-9d9993175a6f" "Disaster Aversion: The Quest to Control Hurricanes" %}}." *Harper's*, October 2009.
 
 Work on your "On The Road" revisions.
 
@@ -223,7 +223,7 @@ Read and post responses to:
 
 - Healey, Mina. "Walker Memorial: The 'Useful' Building," *Angles*, 2012.
 - Wangare, Yvonne. "Away From Home," *Angles*, 2012.
-- Moran, Shannon. "[Freshman Year, On the Rocks](https://mitangles.wordpress.com/moran/)," *Angles*, 2011.
+- Moran, Shannon. "{{% resource_link "1b533041-5fed-46f6-93f3-b682477070ce" "Freshman Year, On the Rocks" %}}," *Angles*, 2011.
 - Burgos, Ana. "A Professor of Puzzles," *Angles*, 2012.
 - Warneke, Jonathan. "Armed and Dangerous: Don't Point your Quantum Computer at Me!" *Angles*, 2012.
 
@@ -245,7 +245,7 @@ Continue work on your PIEs, developing your train of thought, pursuing useful so
 
 **PIE: Visiting the DIRC**
 
-*We will meet in the MIT Libraries'* [*Digital Instruction Resource Center (DIRC)*](http://libraries.mit.edu/dirc/) *with Mark Szarko, who will help you make the best use of the library resources as you continue to track sources for your essays.*
+*We will meet in the MIT Libraries'* {{% resource_link "1d1a311d-5008-4340-af09-29bfe1dc8a7e" "*Digital Instruction Resource Center (DIRC)*" %}} *with Mark Szarko, who will help you make the best use of the library resources as you continue to track sources for your essays.*
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -259,7 +259,7 @@ Fill out and bring your {{% resource_link "0bbcce1d-9bd8-a415-5231-437c01186404"
 
 **PIE: Visiting the Archives**
 
-*We will meet in the MIT Libraries'* [*Institute Archives & Special Collections*](http://libraries.mit.edu/archives/) *with Nora Murphy, who will introduce you to the Archives, and assist you in finding archival material for your essays.*
+*We will meet in the MIT Libraries'* {{% resource_link "7c0304d3-465d-4f93-a4f5-1beb75a79335" "*Institute Archives & Special Collections*" %}} *with Nora Murphy, who will introduce you to the Archives, and assist you in finding archival material for your essays.*
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -282,12 +282,12 @@ Continue work on your PIEs.
 Read:
 
 - MIT Stories (Assignment 5)
-- Gregg, Joseph. "[Que Sera Sera](http://web.mit.edu/angles2008/angles_Joseph_Gregg.html)," *Angles*, 2008.
-- Miner, Horace. "[Body Ritual among the Nacirema](http://dx.doi.org/10.1525/aa.1956.58.3.02a00080)." *American Anthropologist* 58, no. 3 (1956): 503–7.
+- Gregg, Joseph. "{{% resource_link "f4178014-661d-47c2-aeaa-bcc67af6f826" "Que Sera Sera" %}}," *Angles*, 2008.
+- Miner, Horace. "{{% resource_link "718df758-bc76-4ef3-bbec-0415c8cc0cb2" "Body Ritual among the Nacirema" %}}." *American Anthropologist* 58, no. 3 (1956): 503–7.
 - Sun, Lili. "Pottery Class," *Angles*, 2012.
 - Fayngersh, Mark. "Owl," *Angles*, 2012.
 - Fujimori, Jessica. "Yellowstone's Footprint," *Angles*, 2012.
-- Moffatt, Michael. "A Year on Hasbrouck Fourth." Chapter 3 in *Coming of Age in New Jersey: College and American Culture*. Rutgers University Press, 1989, pp. 88-95. ISBN: 9780813513591. \[Preview with [Google Books](http://books.google.com/books?id=ihVdUU_WU8oC&pg=PA71=onepage)\]
+- Moffatt, Michael. "A Year on Hasbrouck Fourth." Chapter 3 in *Coming of Age in New Jersey: College and American Culture*. Rutgers University Press, 1989, pp. 88-95. ISBN: 9780813513591. \[Preview with {{% resource_link "968e0e5d-5f08-4359-b63e-bc72134a0bdb" "Google Books" %}}\]
 - {{% resource_link "72b6b93b-b5c2-2772-6540-288cd01d73eb" "\"Ode to the Midnight P-Setter\" (PDF)" %}}
 - {{% resource_link "cf9722e6-8862-6741-4540-62e25219abd5" "MIT Stories, Responses I (PDF)" %}}
 
